@@ -7,7 +7,6 @@ const CallToActionBanner = () => {
   return (
     <section className="relative w-full overflow-hidden bg-gradient-to-b from-white via-blue-200 to-white">
       <div className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 pt-4 pb-20 sm:py-24 lg:px-8">
-        {/* Left content */}
         <Reveal
           type="top"
           className="flex flex-col items-center justify-center text-center lg:items-center"
